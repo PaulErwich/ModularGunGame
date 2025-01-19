@@ -190,6 +190,7 @@ MonoBehaviour:
   speed: 10
   orientation: {fileID: 9163673894243520586}
   cam: {fileID: 7993353141700463927}
+  bullet: {fileID: 2394976076706214244, guid: ce31b26bb31716642b83f1956ecf7897, type: 3}
   groundDrag: 5
   jumpForce: 5
   jumpCooldown: 1
