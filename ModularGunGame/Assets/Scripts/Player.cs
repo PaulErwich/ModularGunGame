@@ -8,7 +8,7 @@ public class Player : MonoBehaviour, IPlayerActions
     private gun nextGun;
 
     InputSystem_Actions controls;
-    private float speed = 2f;
+    public float speed = 10f;
     private Rigidbody rbody;
     private Vector2 moveInput;
     private Vector3 movement;
@@ -50,13 +50,16 @@ public class Player : MonoBehaviour, IPlayerActions
 
         rbody = GetComponent<Rigidbody>();
         rbody.freezeRotation = true;
+    }
 
+    void Start()
+    {
         currentGun = GunRandomiser.instance.RequestGun();
         nextGun = GunRandomiser.instance.RequestGun();
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         //rbody.linearVelocity = moveInput;
 

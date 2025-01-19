@@ -187,6 +187,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7449033518a082242915b5f5da6bc20e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
   orientation: {fileID: 9163673894243520586}
   cam: {fileID: 7993353141700463927}
   groundDrag: 5
@@ -196,7 +197,7 @@ MonoBehaviour:
   playerHeight: 0.1
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1024
 --- !u!33 &3527994593289427045
 MeshFilter:
   m_ObjectHideFlags: 0
