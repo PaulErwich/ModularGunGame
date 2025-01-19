@@ -4,9 +4,8 @@ using static InputSystem_Actions;
 
 public class Player : MonoBehaviour, IPlayerActions
 {
-    GunRandomiser gr;
-    gun currentGun;
-    gun nextGun;
+    private gun currentGun;
+    private gun nextGun;
 
     InputSystem_Actions controls;
     private float speed;
@@ -27,8 +26,8 @@ public class Player : MonoBehaviour, IPlayerActions
         rbody = GetComponent<Rigidbody>();
         //rbody.freezeRotation = true;
 
-        currentGun = gr.RequestGun();
-        nextGun = gr.RequestGun();
+        currentGun = GunRandomiser.instance.RequestGun();
+        nextGun = GunRandomiser.instance.RequestGun();
     }
 
     // Update is called once per frame
@@ -101,6 +100,6 @@ public class Player : MonoBehaviour, IPlayerActions
     private void NewGun()
     {
         currentGun = nextGun;
-        nextGun = gr.RequestGun();
+        nextGun = GunRandomiser.instance.RequestGun();
     }
 }

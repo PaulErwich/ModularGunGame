@@ -3,11 +3,11 @@ using System.Collections.Generic;
 
 public class GunPartList : MonoBehaviour 
 {
-    GunParts gunParts;
+    GunParts gp = new GunParts();
 
-    private void Start()
+    private void Awake()
     {
-        gunParts.init();
+        gp.Awake();
     }
 }
 
@@ -52,7 +52,7 @@ public class gun
 
 public class part
 {
-    public Mesh mesh;
+    //public Mesh mesh;
 
     public Dictionary<partType, Vector3> connection_points;         // Attachment points for the parts on the body
     public Vector3 shooting_point;                                  // Location on the barrel where the bullets will be instantiated
@@ -71,6 +71,18 @@ class GunParts
 {
     public List<gun> gunList = new List<gun>();
 
+    public static GunParts instance;
+
+    public void Awake()
+    {
+        if (instance == null)
+        {
+            instance = this;
+        }
+
+        init();
+    }
+
     public void init()
     {
         pistol();
@@ -82,6 +94,8 @@ class GunParts
 
     void pistol()
     {
+        gunList.Add(new gun());
+
         //gunList[0].parts[partType.BODY].mesh = ;
         gunList[0].parts[partType.BODY].connection_points = new Dictionary<partType, Vector3> { { partType.MAG, new Vector3(0, 0, 0) }, { partType.BARREL, new Vector3(0, 0, 0) }, { partType.SCOPE, new Vector3(0, 0, 0) } };
         gunList[0].parts[partType.BODY].damage = 5;
@@ -121,6 +135,8 @@ class GunParts
 
     void shotgun()
     {
+        gunList.Add(new gun());
+
         //gunList[1].parts[partType.BODY].mesh = ;
         gunList[1].parts[partType.BODY].connection_points = new Dictionary<partType, Vector3> { { partType.MAG, new Vector3(0, 0, 0) }, { partType.BARREL, new Vector3(0, 0, 0) }, { partType.SCOPE, new Vector3(0, 0, 0) } };
         gunList[1].parts[partType.BODY].damage = 5;
@@ -160,6 +176,8 @@ class GunParts
 
     void rifle()
     {
+        gunList.Add(new gun());
+
         //gunList[2].parts[partType.BODY].mesh = ;
         gunList[2].parts[partType.BODY].connection_points = new Dictionary<partType, Vector3> { { partType.MAG, new Vector3(0, 0, 0) }, { partType.BARREL, new Vector3(0, 0, 0) }, { partType.SCOPE, new Vector3(0, 0, 0) } };
         gunList[2].parts[partType.BODY].damage = 6;
@@ -199,6 +217,8 @@ class GunParts
 
     void sniper()
     {
+        gunList.Add(new gun());
+
         //gunList[3].parts[partType.BODY].mesh = ;
         gunList[3].parts[partType.BODY].connection_points = new Dictionary<partType, Vector3> { { partType.MAG, new Vector3(0, 0, 0) }, { partType.BARREL, new Vector3(0, 0, 0) }, { partType.SCOPE, new Vector3(0, 0, 0) } };
         gunList[3].parts[partType.BODY].damage = 50;
@@ -238,6 +258,8 @@ class GunParts
 
     void smg()
     {
+        gunList.Add(new gun());
+
         //gunList[4].parts[partType.BODY].mesh = ;
         gunList[4].parts[partType.BODY].connection_points = new Dictionary<partType, Vector3> { { partType.MAG, new Vector3(0, 0, 0) }, { partType.BARREL, new Vector3(0, 0, 0) }, { partType.SCOPE, new Vector3(0, 0, 0) } };
         gunList[4].parts[partType.BODY].damage = 5;

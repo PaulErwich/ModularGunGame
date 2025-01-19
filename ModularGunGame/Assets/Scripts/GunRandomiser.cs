@@ -4,7 +4,15 @@ using UnityEngine;
 
 public class GunRandomiser : MonoBehaviour
 {
-    GunParts gunParts;
+    public static GunRandomiser instance;
+
+    private void Awake()
+    {
+        if (instance == null)
+        {
+            instance = this;
+        }
+    }
 
     public gun RequestGun()
     {
@@ -19,7 +27,7 @@ public class GunRandomiser : MonoBehaviour
         for (int i = 0; i < 5; i++)
         {
             int random = Random.Range(0, 5);
-            generatedGun.parts[(partType)i] = gunParts.gunList[random].parts[(partType)i];
+            generatedGun.parts[(partType)i] = GunParts.instance.gunList[random].parts[(partType)i];
         }
     }
 
