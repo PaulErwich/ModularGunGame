@@ -8,14 +8,39 @@ public class Player : MonoBehaviour, IPlayerActions
     private gun nextGun;
 
     InputSystem_Actions controls;
-    private float speed;
+    private float speed = 2f;
     private Rigidbody rbody;
     private Vector2 moveInput;
     private Vector3 movement;
 
+    [Header("Camera rotation")]
+    private Vector2 mouseMovement;
+    private float xRotation;
+    private float yRotation;
+    private float mouseSens = 15.0f;
+
+    public Transform orientation;
+    public GameObject cam;
+
+    public float groundDrag;
+
+    [Header("Jumping")]
+    public float jumpForce;
+    public float jumpCooldown;
+    public float airMultiplier;
+    bool readyToJump = true;
+
+    [Header("Ground check")]
+    public float playerHeight;
+    public LayerMask whatIsGround;
+    bool grounded = true;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+
         if (controls == null)
         {
             controls = new InputSystem_Actions();
@@ -24,7 +49,7 @@ public class Player : MonoBehaviour, IPlayerActions
         controls.Player.Enable();
 
         rbody = GetComponent<Rigidbody>();
-        //rbody.freezeRotation = true;
+        rbody.freezeRotation = true;
 
         currentGun = GunRandomiser.instance.RequestGun();
         nextGun = GunRandomiser.instance.RequestGun();
@@ -35,11 +60,42 @@ public class Player : MonoBehaviour, IPlayerActions
     {
         //rbody.linearVelocity = moveInput;
 
-        //charController.Move(movement);
-        Debug.Log(moveInput);
-        movement = transform.forward * moveInput.y + transform.right * moveInput.x;
+        grounded = Physics.Raycast(transform.position, Vector3.down, playerHeight * 0.5f + 0.05f, whatIsGround);
 
-        rbody.AddForce(movement.normalized * 1, ForceMode.Force);
+        if (grounded)
+            rbody.linearDamping = groundDrag;
+        else
+            rbody.linearDamping = 0f;
+
+        MovePlayer();
+        SpeedControl();
+    }
+
+    private void MovePlayer()
+    {
+        movement = orientation.forward * moveInput.y + orientation.right * moveInput.x;
+
+        if (grounded)
+            rbody.AddForce(movement.normalized * speed, ForceMode.Force);
+        else
+            rbody.AddForce(movement.normalized * speed * airMultiplier, ForceMode.Force);
+    }
+
+    private void SpeedControl()
+    {
+        Vector3 flatVel = new Vector3(rbody.linearVelocity.x, 0f, rbody.linearVelocity.z);
+
+        // limit velocity if necessary
+        if (flatVel.magnitude > speed)
+        {
+            Vector3 limitedVel = flatVel.normalized * speed;
+            rbody.linearVelocity = new Vector3(limitedVel.x, rbody.linearVelocity.y, limitedVel.z);
+        }
+    }
+
+    public void ResetJump()
+    {
+        readyToJump = true;
     }
 
     public void OnEnable()
@@ -56,29 +112,35 @@ public class Player : MonoBehaviour, IPlayerActions
         //throw new System.NotImplementedException();
     }
 
-    public void OnCrouch(InputAction.CallbackContext context)
-    {
-        //throw new System.NotImplementedException();
-    }
-
-    public void OnInteract(InputAction.CallbackContext context)
-    {
-        //throw new System.NotImplementedException();
-    }
-
     public void OnJump(InputAction.CallbackContext context)
     {
-        //throw new System.NotImplementedException();
+        if (readyToJump && grounded)
+        {
+            Debug.Log("JUMP!");
+            readyToJump = false;
+
+            rbody.linearVelocity = new Vector3(rbody.linearVelocity.x, 0f, rbody.linearVelocity.z);
+            rbody.AddForce(transform.up * jumpForce, ForceMode.Impulse);
+
+            Invoke(nameof(ResetJump), jumpCooldown);
+        }
     }
 
     public void OnLook(InputAction.CallbackContext context)
     {
-        //throw new System.NotImplementedException();
+        mouseMovement = context.ReadValue<Vector2>();
+
+        yRotation += mouseMovement.x * Time.deltaTime * mouseSens;
+        xRotation -= mouseMovement.y * Time.deltaTime * mouseSens;
+
+        xRotation = Mathf.Clamp(xRotation, -90f, 90f);
+
+        cam.transform.rotation = Quaternion.Euler(xRotation, yRotation, 0);
+        orientation.rotation = Quaternion.Euler(0, yRotation, 0);
     }
 
     public void OnMove(InputAction.CallbackContext context)
     {
-        Debug.Log(context.valueType);
         moveInput = context.ReadValue<Vector2>();
     }
 
@@ -96,7 +158,15 @@ public class Player : MonoBehaviour, IPlayerActions
     {
         //throw new System.NotImplementedException();
     }
+    public void OnCrouch(InputAction.CallbackContext context)
+    {
+        //throw new System.NotImplementedException();
+    }
 
+    public void OnInteract(InputAction.CallbackContext context)
+    {
+        //throw new System.NotImplementedException();
+    }
     private void NewGun()
     {
         currentGun = nextGun;
