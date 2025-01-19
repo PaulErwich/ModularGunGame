@@ -21,8 +21,13 @@ public class Player : MonoBehaviour, IPlayerActions
 
     public Transform orientation;
     public GameObject cam;
+    public GameObject bullet;
 
     public float groundDrag;
+
+    [Header("Shooting")]
+    public float shotCooldown = 0.2f;
+    bool readyToShoot = true;
 
     [Header("Jumping")]
     public float jumpForce;
@@ -101,6 +106,11 @@ public class Player : MonoBehaviour, IPlayerActions
         readyToJump = true;
     }
 
+    public void ResetShot()
+    {
+        readyToShoot = true;
+    }
+
     public void OnEnable()
     {
         controls.Player.Enable();
@@ -112,7 +122,16 @@ public class Player : MonoBehaviour, IPlayerActions
 
     public void OnAttack(InputAction.CallbackContext context)
     {
-        //throw new System.NotImplementedException();
+        if (readyToShoot)
+        {
+            readyToShoot = false;
+
+            GameObject newBullet = Instantiate(bullet, transform.position + orientation.forward * 0.3f, cam.transform.rotation);
+            newBullet.GetComponent<Bullet>().SetupBullet(cam.transform.forward);
+
+            Invoke(nameof(ResetShot), shotCooldown);
+        }
+
     }
 
     public void OnJump(InputAction.CallbackContext context)
