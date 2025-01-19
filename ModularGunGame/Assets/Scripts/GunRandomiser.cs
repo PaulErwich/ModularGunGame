@@ -9,6 +9,8 @@ public class GunRandomiser : MonoBehaviour
     public gun RequestGun()
     {
         gun generatedGun = new gun();
+        RandomiseGun(generatedGun);
+        TotalStats(generatedGun);
         return generatedGun;
     }
 
