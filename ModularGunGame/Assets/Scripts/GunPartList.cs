@@ -54,7 +54,8 @@ public class part
 {
     public Mesh mesh;
 
-    public Dictionary<partType, Vector3> connection_points;
+    public Dictionary<partType, Vector3> connection_points;         // Attachment points for the parts on the body
+    public Vector3 shooting_point;                                  // Location on the barrel where the bullets will be instantiated
 
     public float damage;            // Damage
     public float fire_rate;         // Shots per second
@@ -97,6 +98,7 @@ class GunParts
         gunList[0].parts[partType.MAG].ammo_type = ammoType.PISTOL;
         gunList[0].parts[partType.MAG].bullet_count = 24;
 
+        gunList[0].parts[partType.BARREL].shooting_point = new Vector3(0,0,0);
         gunList[0].parts[partType.BARREL].damage = 6;
         gunList[0].parts[partType.BARREL].fire_rate = 0.2f;
         gunList[0].parts[partType.BARREL].recoil = 5;
@@ -135,6 +137,7 @@ class GunParts
         gunList[1].parts[partType.MAG].ammo_type = ammoType.SHOTGUN;
         gunList[1].parts[partType.MAG].bullet_count = 20;
 
+        gunList[1].parts[partType.BARREL].shooting_point = new Vector3(0, 0, 0);
         gunList[1].parts[partType.BARREL].damage = 1;
         gunList[1].parts[partType.BARREL].fire_rate = 0.2f;
         gunList[1].parts[partType.BARREL].recoil = 6;
@@ -173,6 +176,7 @@ class GunParts
         gunList[2].parts[partType.MAG].ammo_type = ammoType.RIFLE;
         gunList[2].parts[partType.MAG].bullet_count = 45;
 
+        gunList[2].parts[partType.BARREL].shooting_point = new Vector3(0, 0, 0);
         gunList[2].parts[partType.BARREL].damage = 2;
         gunList[2].parts[partType.BARREL].fire_rate = 2;
         gunList[2].parts[partType.BARREL].recoil = -1;
@@ -211,6 +215,7 @@ class GunParts
         gunList[3].parts[partType.MAG].ammo_type = ammoType.SNIPER;
         gunList[3].parts[partType.MAG].bullet_count = 15;
 
+        gunList[3].parts[partType.BARREL].shooting_point = new Vector3(0, 0, 0);
         gunList[3].parts[partType.BARREL].damage = 0;
         gunList[3].parts[partType.BARREL].fire_rate = 0.1f;
         gunList[3].parts[partType.BARREL].recoil = 6;
@@ -249,6 +254,7 @@ class GunParts
         gunList[4].parts[partType.MAG].ammo_type = ammoType.SMG;
         gunList[4].parts[partType.MAG].bullet_count = 60;
 
+        gunList[4].parts[partType.BARREL].shooting_point = new Vector3(0, 0, 0);
         gunList[4].parts[partType.BARREL].damage = -1;
         gunList[4].parts[partType.BARREL].fire_rate = 2;
         gunList[4].parts[partType.BARREL].recoil = 3;

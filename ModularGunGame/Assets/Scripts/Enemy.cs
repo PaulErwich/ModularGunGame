@@ -8,7 +8,6 @@ public class Enemy : MonoBehaviour
 
     private gun gun;
     private float health;
-    private float moveSpeed;
 
     private void Awake()
     {
