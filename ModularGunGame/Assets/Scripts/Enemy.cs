@@ -21,4 +21,28 @@ public class Enemy : MonoBehaviour
         // Makes the enemies have worse accuracy otherwise they would have aimbot sometimes
         gun.accuracy += 2;
     }
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        //TakeDamage();
+    }
+
+    private void TakeDamage(int amount)
+    {
+        health -= amount;
+        if (health < 0)
+        {
+            Destroy(gameObject);
+        }
+    }
+
+    private void Shoot()
+    {
+
+    }
+
+    private void Move()
+    {
+        
+    }
 }
