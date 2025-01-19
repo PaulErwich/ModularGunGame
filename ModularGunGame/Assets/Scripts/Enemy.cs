@@ -8,8 +8,9 @@ public class Enemy : MonoBehaviour
 
     private gun gun;
     private float health;
+    private float moveSpeed;
 
-    private void Start()
+    private void Awake()
     {
         NewGun();
         health = 100;
@@ -18,5 +19,7 @@ public class Enemy : MonoBehaviour
     private void NewGun()
     {
         gun = gr.RequestGun();
+        // Makes the enemies have worse accuracy otherwise they would have aimbot sometimes
+        gun.accuracy += 2;
     }
 }
