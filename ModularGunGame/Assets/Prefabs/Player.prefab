@@ -150,7 +150,7 @@ GameObject:
   - component: {fileID: 3527994593289427045}
   - component: {fileID: 8708354456014032424}
   - component: {fileID: 1903971596838450832}
-  - component: {fileID: 293356952603042321}
+  - component: {fileID: 8120749928119764454}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -192,6 +192,7 @@ MonoBehaviour:
   cam: {fileID: 7993353141700463927}
   bullet: {fileID: 2394976076706214244, guid: ce31b26bb31716642b83f1956ecf7897, type: 3}
   groundDrag: 5
+  shotCooldown: 0.2
   jumpForce: 5
   jumpCooldown: 1
   airMultiplier: 0.5
@@ -199,6 +200,7 @@ MonoBehaviour:
   whatIsGround:
     serializedVersion: 2
     m_Bits: 1024
+  grounded: 1
 --- !u!33 &3527994593289427045
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -279,7 +281,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!136 &293356952603042321
+--- !u!136 &8120749928119764454
 CapsuleCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -298,10 +300,10 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.03975
-  m_Height: 0.11399999
+  m_Radius: 0.0795
+  m_Height: 0.22799999
   m_Direction: 1
-  m_Center: {x: 0, y: 0.056999996, z: 0}
+  m_Center: {x: 0, y: 0.11399999, z: 0}
 --- !u!1 &7993353141700463927
 GameObject:
   m_ObjectHideFlags: 0

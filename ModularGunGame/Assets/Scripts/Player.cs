@@ -38,7 +38,7 @@ public class Player : MonoBehaviour, IPlayerActions
     [Header("Ground check")]
     public float playerHeight;
     public LayerMask whatIsGround;
-    bool grounded = true;
+    public bool grounded = true;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
@@ -68,7 +68,8 @@ public class Player : MonoBehaviour, IPlayerActions
     {
         //rbody.linearVelocity = moveInput;
 
-        grounded = Physics.Raycast(transform.position, Vector3.down, playerHeight * 0.5f + 0.05f, whatIsGround);
+        grounded = Physics.Raycast(transform.position, Vector3.down, playerHeight * 0.5f + 0.1f, whatIsGround);
+        Debug.DrawLine(transform.position, new Vector3(transform.position.x, transform.position.y - (playerHeight * 0.5f + 0.1f), transform.position.z));
 
         if (grounded)
             rbody.linearDamping = groundDrag;
