@@ -130,7 +130,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -172,6 +172,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 48ed1dd2f485fb44086f4854672c9a36, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (26)
@@ -196,7 +200,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -238,6 +242,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 48ed1dd2f485fb44086f4854672c9a36, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (94)
@@ -257,7 +265,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -299,6 +307,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d916e0b65da22174382767a6b942efdb, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (1)
@@ -323,7 +335,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -365,6 +377,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a0117c0c441b3d4b84bcf28a1e57084, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (43)
@@ -389,7 +405,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -431,6 +447,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 06dcf0965e1727f40b45bffe135a82a0, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (22)
@@ -455,7 +475,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -497,6 +517,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b73b76e49c156f04ba17d20390ae1d3c, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (93)
@@ -516,7 +540,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -558,6 +582,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 36309628ff2176343815aa91d597ebf4, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (2)
@@ -577,7 +605,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -619,6 +647,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ea81ccbfb521b7e408eba933db646e7f, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (19)
@@ -638,7 +670,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -680,6 +712,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f7f5951340187b6408b274b2ac649606, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (29)
@@ -714,7 +750,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -756,6 +792,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a654dba29edd3cc4381b7a9b91044621, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (28)
@@ -775,7 +815,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -817,6 +857,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a654dba29edd3cc4381b7a9b91044621, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (14)
@@ -851,7 +895,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -893,6 +937,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a654dba29edd3cc4381b7a9b91044621, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (5)
@@ -912,7 +960,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -954,6 +1002,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 06dcf0965e1727f40b45bffe135a82a0, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (87)
@@ -973,7 +1025,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1015,6 +1067,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 61d8fa0f288d964408c0aa24f631f00e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (24)
@@ -1044,7 +1100,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1086,6 +1142,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 06dcf0965e1727f40b45bffe135a82a0, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (41)
@@ -1115,7 +1175,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1157,6 +1217,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 61d8fa0f288d964408c0aa24f631f00e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (10)
@@ -1179,7 +1243,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 230804835}
-  - component: {fileID: 230804834}
   m_Layer: 10
   m_Name: Map
   m_TagString: Untagged
@@ -1187,27 +1250,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!65 &230804834
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 230804833}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 9, y: 0.2, z: 9}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &230804835
 Transform:
   m_ObjectHideFlags: 0
@@ -1221,156 +1263,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 175657108}
-  - {fileID: 1790488592}
-  - {fileID: 1937562026}
-  - {fileID: 973436695}
-  - {fileID: 2003336815}
-  - {fileID: 1817096804}
-  - {fileID: 822028775}
-  - {fileID: 547207091}
-  - {fileID: 1792949369}
-  - {fileID: 233447659}
-  - {fileID: 1476415656}
-  - {fileID: 217284672}
-  - {fileID: 1165094671}
-  - {fileID: 1105512162}
-  - {fileID: 945236467}
-  - {fileID: 946742436}
-  - {fileID: 357709940}
-  - {fileID: 580610604}
-  - {fileID: 383966080}
-  - {fileID: 2091530086}
-  - {fileID: 1405554420}
-  - {fileID: 1861951668}
-  - {fileID: 1656409847}
-  - {fileID: 799584591}
-  - {fileID: 2089667009}
-  - {fileID: 720684862}
-  - {fileID: 1853121897}
-  - {fileID: 83550607}
-  - {fileID: 709860360}
-  - {fileID: 1000340321}
-  - {fileID: 1146091430}
-  - {fileID: 1797269658}
-  - {fileID: 424078260}
-  - {fileID: 1426622774}
-  - {fileID: 1650868541}
-  - {fileID: 1706226887}
-  - {fileID: 1217434206}
-  - {fileID: 154652105}
-  - {fileID: 293784119}
-  - {fileID: 1757985018}
-  - {fileID: 1180862742}
-  - {fileID: 1919315996}
-  - {fileID: 1223301351}
-  - {fileID: 1171758235}
-  - {fileID: 237146845}
-  - {fileID: 1640726440}
-  - {fileID: 315882603}
-  - {fileID: 1450420660}
-  - {fileID: 905666486}
-  - {fileID: 939037294}
-  - {fileID: 1645029413}
-  - {fileID: 784161581}
-  - {fileID: 1404439459}
-  - {fileID: 387101310}
-  - {fileID: 1490559111}
-  - {fileID: 1494522949}
-  - {fileID: 994044903}
-  - {fileID: 1482882301}
-  - {fileID: 1285139099}
-  - {fileID: 1418123773}
-  - {fileID: 1143633570}
-  - {fileID: 523207221}
-  - {fileID: 1479117014}
-  - {fileID: 628604425}
-  - {fileID: 2079720088}
-  - {fileID: 1145073717}
-  - {fileID: 430735843}
-  - {fileID: 654251038}
-  - {fileID: 43492297}
-  - {fileID: 992793521}
-  - {fileID: 354611622}
-  - {fileID: 189175134}
-  - {fileID: 1016269805}
-  - {fileID: 1890137449}
-  - {fileID: 649252105}
-  - {fileID: 1455176665}
-  - {fileID: 1803873864}
-  - {fileID: 1585514888}
-  - {fileID: 623553158}
-  - {fileID: 2137546147}
-  - {fileID: 2130396679}
-  - {fileID: 72756445}
-  - {fileID: 686454609}
-  - {fileID: 933077179}
-  - {fileID: 1717806289}
-  - {fileID: 966960720}
-  - {fileID: 371276065}
-  - {fileID: 1826074370}
-  - {fileID: 1732713265}
-  - {fileID: 145027339}
-  - {fileID: 1577021400}
-  - {fileID: 1974593469}
-  - {fileID: 142635899}
-  - {fileID: 2129805274}
-  - {fileID: 644571233}
-  - {fileID: 1556361504}
-  - {fileID: 1043929019}
-  - {fileID: 1872161519}
-  - {fileID: 212782953}
-  - {fileID: 677994205}
-  - {fileID: 549334253}
-  - {fileID: 730816057}
-  - {fileID: 1193582573}
-  - {fileID: 1289553871}
-  - {fileID: 295852262}
-  - {fileID: 1605791279}
-  - {fileID: 1793860555}
-  - {fileID: 307883889}
-  - {fileID: 1331701579}
-  - {fileID: 219619095}
-  - {fileID: 1122319095}
-  - {fileID: 1280738147}
-  - {fileID: 769524}
-  - {fileID: 1456643315}
-  - {fileID: 527158636}
-  - {fileID: 178833200}
-  - {fileID: 820825200}
-  - {fileID: 1575129687}
-  - {fileID: 1883024733}
-  - {fileID: 652444591}
-  - {fileID: 1103912300}
-  - {fileID: 2014494244}
-  - {fileID: 614546000}
-  - {fileID: 1490148126}
-  - {fileID: 1111723411}
-  - {fileID: 1649919752}
-  - {fileID: 339547695}
-  - {fileID: 2021412482}
-  - {fileID: 207985198}
-  - {fileID: 1210566498}
-  - {fileID: 1260831576}
-  - {fileID: 830188251}
-  - {fileID: 531458057}
-  - {fileID: 1418855067}
-  - {fileID: 1171754571}
-  - {fileID: 741366031}
-  - {fileID: 1246770325}
-  - {fileID: 424739003}
-  - {fileID: 485407759}
-  - {fileID: 1561817651}
-  - {fileID: 1397112818}
-  - {fileID: 943554034}
-  - {fileID: 437515581}
-  - {fileID: 1578362212}
-  - {fileID: 2142461828}
-  - {fileID: 607180697}
-  - {fileID: 851365699}
-  - {fileID: 10761395}
-  - {fileID: 263887946}
-  - {fileID: 1349049868}
+  - {fileID: 860667156}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &233447659 stripped
@@ -1389,7 +1282,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1431,6 +1324,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b73b76e49c156f04ba17d20390ae1d3c, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (45)
@@ -1558,7 +1455,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1600,6 +1497,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 61d8fa0f288d964408c0aa24f631f00e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (72)
@@ -1619,7 +1520,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1661,6 +1562,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 36309628ff2176343815aa91d597ebf4, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (44)
@@ -1758,67 +1663,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 2090816528}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &276776464
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -4.134
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -4.4240003
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x8 (62)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
 --- !u!4 &293784119 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
@@ -1833,11 +1677,6 @@ Transform:
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 1751219777}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &315882603 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-  m_PrefabInstance: {fileID: 1959089141}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &322986675
 GameObject:
@@ -1902,7 +1741,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -1910,7 +1749,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -0.000000007450581
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1944,6 +1783,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8292cd85d58172346bc106c19fd24589, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4
@@ -2099,81 +1942,10 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 672418766}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &340791201
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -4.134
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.792
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x8 (61)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
 --- !u!4 &354611622 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 1947565449}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &357709940 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-  m_PrefabInstance: {fileID: 1073344187}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &371276065 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-  m_PrefabInstance: {fileID: 686388556}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &383966080 stripped
 Transform:
@@ -2191,7 +1963,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2233,6 +2005,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8292cd85d58172346bc106c19fd24589, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (24)
@@ -2252,7 +2028,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2294,6 +2070,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 72127cdd462b1154b8d960aa00aafd4e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (81)
@@ -2434,7 +2214,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2476,6 +2256,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 51d3f1d141904db4891039dea06612ca, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (18)
@@ -2505,7 +2289,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2547,6 +2331,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d916e0b65da22174382767a6b942efdb, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (1)
@@ -2560,18 +2348,13 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
---- !u!4 &430735843 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-  m_PrefabInstance: {fileID: 340791201}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &436202380
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2613,6 +2396,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 51d3f1d141904db4891039dea06612ca, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (50)
@@ -2637,7 +2424,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2679,6 +2466,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d916e0b65da22174382767a6b942efdb, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (90)
@@ -2698,7 +2489,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2740,6 +2531,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f2a633e6e27b9f04ba404bff460bc47e, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (35)
@@ -2759,7 +2554,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2801,6 +2596,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a0117c0c441b3d4b84bcf28a1e57084, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (84)
@@ -2820,7 +2619,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2862,6 +2661,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 61d8fa0f288d964408c0aa24f631f00e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (98)
@@ -2886,7 +2689,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2928,6 +2731,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 51d3f1d141904db4891039dea06612ca, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (82)
@@ -2947,7 +2754,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2989,6 +2796,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f2a633e6e27b9f04ba404bff460bc47e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (73)
@@ -3008,7 +2819,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3050,6 +2861,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 61d8fa0f288d964408c0aa24f631f00e, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (6)
@@ -3079,7 +2894,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3121,6 +2936,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f2a633e6e27b9f04ba404bff460bc47e, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (16)
@@ -3149,67 +2968,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 429152942}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &570494377
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -4.134
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.8959999
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x8 (64)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
 --- !u!4 &580610604 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
@@ -3221,7 +2979,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3263,6 +3021,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f2a633e6e27b9f04ba404bff460bc47e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (52)
@@ -3276,74 +3038,13 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
---- !u!1001 &589498991
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.1799998
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -4.4240003
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x4 (32)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
 --- !u!1001 &600617260
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3385,6 +3086,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 48ed1dd2f485fb44086f4854672c9a36, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (95)
@@ -3409,7 +3114,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3451,6 +3156,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 72127cdd462b1154b8d960aa00aafd4e, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (42)
@@ -3475,7 +3184,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3517,6 +3226,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 51d3f1d141904db4891039dea06612ca, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (35)
@@ -3546,7 +3259,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3588,6 +3301,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 51d3f1d141904db4891039dea06612ca, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (34)
@@ -3606,67 +3323,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 1828818689}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &645722164
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2.2259998
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -4.4240003
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x8 (77)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
 --- !u!4 &649252105 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
@@ -3688,7 +3344,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3730,6 +3386,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 48ed1dd2f485fb44086f4854672c9a36, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (7)
@@ -3749,7 +3409,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3791,6 +3451,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2fea2a17f0c89914bb1ce995a2c78355, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (67)
@@ -3815,7 +3479,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3857,70 +3521,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 36309628ff2176343815aa91d597ebf4, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (9)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
---- !u!1001 &686388556
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -4.134
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -2.528
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x8 (63)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Layer
@@ -3942,7 +3549,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -3984,6 +3591,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a654dba29edd3cc4381b7a9b91044621, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (71)
@@ -4018,7 +3629,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4060,6 +3671,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8292cd85d58172346bc106c19fd24589, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (47)
@@ -4084,7 +3699,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4126,6 +3741,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 72127cdd462b1154b8d960aa00aafd4e, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (25)
@@ -4145,7 +3764,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4187,6 +3806,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ea81ccbfb521b7e408eba933db646e7f, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (33)
@@ -4206,7 +3829,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4248,6 +3871,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8292cd85d58172346bc106c19fd24589, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (3)
@@ -4267,7 +3894,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4309,6 +3936,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2fea2a17f0c89914bb1ce995a2c78355, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (8)
@@ -4333,7 +3964,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4375,6 +4006,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 06dcf0965e1727f40b45bffe135a82a0, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (41)
@@ -4459,11 +4094,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 919340330}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &822028775 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-  m_PrefabInstance: {fileID: 1001606796}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &830188251 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
@@ -4524,7 +4154,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4566,6 +4196,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d916e0b65da22174382767a6b942efdb, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (6)
@@ -4658,7 +4292,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 130037134770428555, guid: 2bdcba7a221da8548a57cefce5c6b78d, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.95974874
+      value: 4.0962515
       objectReference: {fileID: 0}
     - target: {fileID: 130037134770428555, guid: 2bdcba7a221da8548a57cefce5c6b78d, type: 3}
       propertyPath: m_LocalRotation.w
@@ -4704,18 +4338,13 @@ PrefabInstance:
       addedObject: {fileID: 330585546}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2bdcba7a221da8548a57cefce5c6b78d, type: 3}
---- !u!4 &851365699 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-  m_PrefabInstance: {fileID: 1564260160}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &854899504
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4757,6 +4386,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f2a633e6e27b9f04ba404bff460bc47e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (37)
@@ -4770,13 +4403,201 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+--- !u!1 &860667155
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 860667156}
+  - component: {fileID: 860667157}
+  m_Layer: 10
+  m_Name: Floor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &860667156
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 860667155}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 175657108}
+  - {fileID: 1790488592}
+  - {fileID: 1937562026}
+  - {fileID: 973436695}
+  - {fileID: 2003336815}
+  - {fileID: 1817096804}
+  - {fileID: 547207091}
+  - {fileID: 1792949369}
+  - {fileID: 233447659}
+  - {fileID: 1476415656}
+  - {fileID: 217284672}
+  - {fileID: 1165094671}
+  - {fileID: 1105512162}
+  - {fileID: 945236467}
+  - {fileID: 946742436}
+  - {fileID: 580610604}
+  - {fileID: 383966080}
+  - {fileID: 2091530086}
+  - {fileID: 1405554420}
+  - {fileID: 1861951668}
+  - {fileID: 1656409847}
+  - {fileID: 799584591}
+  - {fileID: 2089667009}
+  - {fileID: 720684862}
+  - {fileID: 83550607}
+  - {fileID: 709860360}
+  - {fileID: 1000340321}
+  - {fileID: 1146091430}
+  - {fileID: 1797269658}
+  - {fileID: 424078260}
+  - {fileID: 1426622774}
+  - {fileID: 1650868541}
+  - {fileID: 1706226887}
+  - {fileID: 154652105}
+  - {fileID: 293784119}
+  - {fileID: 1757985018}
+  - {fileID: 1180862742}
+  - {fileID: 1919315996}
+  - {fileID: 1223301351}
+  - {fileID: 1171758235}
+  - {fileID: 237146845}
+  - {fileID: 1640726440}
+  - {fileID: 1450420660}
+  - {fileID: 905666486}
+  - {fileID: 939037294}
+  - {fileID: 1645029413}
+  - {fileID: 784161581}
+  - {fileID: 1404439459}
+  - {fileID: 387101310}
+  - {fileID: 1490559111}
+  - {fileID: 1494522949}
+  - {fileID: 1482882301}
+  - {fileID: 1285139099}
+  - {fileID: 1418123773}
+  - {fileID: 1143633570}
+  - {fileID: 523207221}
+  - {fileID: 1479117014}
+  - {fileID: 628604425}
+  - {fileID: 2079720088}
+  - {fileID: 1145073717}
+  - {fileID: 654251038}
+  - {fileID: 43492297}
+  - {fileID: 992793521}
+  - {fileID: 354611622}
+  - {fileID: 189175134}
+  - {fileID: 1016269805}
+  - {fileID: 1890137449}
+  - {fileID: 649252105}
+  - {fileID: 1455176665}
+  - {fileID: 1585514888}
+  - {fileID: 623553158}
+  - {fileID: 2137546147}
+  - {fileID: 2130396679}
+  - {fileID: 72756445}
+  - {fileID: 686454609}
+  - {fileID: 933077179}
+  - {fileID: 1717806289}
+  - {fileID: 966960720}
+  - {fileID: 1826074370}
+  - {fileID: 1732713265}
+  - {fileID: 145027339}
+  - {fileID: 1577021400}
+  - {fileID: 1974593469}
+  - {fileID: 142635899}
+  - {fileID: 2129805274}
+  - {fileID: 644571233}
+  - {fileID: 1556361504}
+  - {fileID: 1872161519}
+  - {fileID: 212782953}
+  - {fileID: 677994205}
+  - {fileID: 549334253}
+  - {fileID: 730816057}
+  - {fileID: 1193582573}
+  - {fileID: 1289553871}
+  - {fileID: 295852262}
+  - {fileID: 1605791279}
+  - {fileID: 307883889}
+  - {fileID: 1331701579}
+  - {fileID: 219619095}
+  - {fileID: 1122319095}
+  - {fileID: 1280738147}
+  - {fileID: 769524}
+  - {fileID: 1456643315}
+  - {fileID: 527158636}
+  - {fileID: 178833200}
+  - {fileID: 820825200}
+  - {fileID: 1883024733}
+  - {fileID: 652444591}
+  - {fileID: 1103912300}
+  - {fileID: 2014494244}
+  - {fileID: 614546000}
+  - {fileID: 1490148126}
+  - {fileID: 1111723411}
+  - {fileID: 1649919752}
+  - {fileID: 339547695}
+  - {fileID: 207985198}
+  - {fileID: 1210566498}
+  - {fileID: 1260831576}
+  - {fileID: 830188251}
+  - {fileID: 531458057}
+  - {fileID: 1418855067}
+  - {fileID: 1171754571}
+  - {fileID: 741366031}
+  - {fileID: 424739003}
+  - {fileID: 485407759}
+  - {fileID: 1561817651}
+  - {fileID: 1397112818}
+  - {fileID: 943554034}
+  - {fileID: 437515581}
+  - {fileID: 1578362212}
+  - {fileID: 2142461828}
+  - {fileID: 607180697}
+  - {fileID: 10761395}
+  - {fileID: 263887946}
+  - {fileID: 1349049868}
+  m_Father: {fileID: 230804835}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &860667157
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 860667155}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 9.55, y: 0.2, z: 9.5}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &869417806
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4818,70 +4639,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 61d8fa0f288d964408c0aa24f631f00e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (25)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
---- !u!1001 &896820465
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2.2259998
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.16
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x8 (65)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Layer
@@ -4898,7 +4662,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4940,6 +4704,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a0117c0c441b3d4b84bcf28a1e57084, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (4)
@@ -4964,7 +4732,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -4976,7 +4744,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -3.792
+      value: -3.7919998
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalRotation.w
@@ -5006,6 +4774,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f2a633e6e27b9f04ba404bff460bc47e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (66)
@@ -5030,7 +4802,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5072,6 +4844,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a654dba29edd3cc4381b7a9b91044621, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (13)
@@ -5096,7 +4872,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5138,6 +4914,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ea81ccbfb521b7e408eba933db646e7f, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (27)
@@ -5157,7 +4937,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5199,6 +4979,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b73b76e49c156f04ba17d20390ae1d3c, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (27)
@@ -5233,7 +5017,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5275,6 +5059,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 06dcf0965e1727f40b45bffe135a82a0, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (80)
@@ -5294,7 +5082,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5336,6 +5124,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a0117c0c441b3d4b84bcf28a1e57084, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (85)
@@ -5355,7 +5147,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5397,6 +5189,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8292cd85d58172346bc106c19fd24589, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (22)
@@ -5416,7 +5212,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5458,6 +5254,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 72127cdd462b1154b8d960aa00aafd4e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (53)
@@ -5487,7 +5287,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5529,6 +5329,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ea81ccbfb521b7e408eba933db646e7f, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (74)
@@ -5609,7 +5413,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5651,6 +5455,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b73b76e49c156f04ba17d20390ae1d3c, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (2)
@@ -5670,7 +5478,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5712,6 +5520,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ea81ccbfb521b7e408eba933db646e7f, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (38)
@@ -5730,84 +5542,18 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 1867982135}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &994044903 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-  m_PrefabInstance: {fileID: 1984934504}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1000340321 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
   m_PrefabInstance: {fileID: 738648757}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1001606796
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.1799998
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.16
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x4 (30)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
 --- !u!1001 &1004834365
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5849,6 +5595,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 61d8fa0f288d964408c0aa24f631f00e, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (49)
@@ -5868,7 +5618,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5910,6 +5660,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 51d3f1d141904db4891039dea06612ca, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (26)
@@ -5934,7 +5688,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5976,6 +5730,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 51d3f1d141904db4891039dea06612ca, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (39)
@@ -5995,7 +5753,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6037,6 +5795,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 72127cdd462b1154b8d960aa00aafd4e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (56)
@@ -6050,18 +5812,13 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
---- !u!4 &1043929019 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-  m_PrefabInstance: {fileID: 570494377}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1052676402
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6103,6 +5860,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f7f5951340187b6408b274b2ac649606, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (58)
@@ -6122,7 +5883,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6164,6 +5925,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f7f5951340187b6408b274b2ac649606, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (83)
@@ -6177,74 +5942,74 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
---- !u!1001 &1073344187
+--- !u!1001 &1079387455
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.1799998
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.792
+    - target: {fileID: -8679921383154817045, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.064
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.661
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
       propertyPath: m_LocalRotation.y
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
       propertyPath: m_LocalRotation.z
       value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+    - target: {fileID: -8679921383154817045, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+    - target: {fileID: -7511558181221131132, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f2a633e6e27b9f04ba404bff460bc47e, type: 2}
+    - target: {fileID: 919132149155446097, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
       propertyPath: m_Name
-      value: bevel-lq-plate-4x4 (31)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_Layer
-      value: 10
+      value: bevel-lq-brick-1x4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: ce12ec56035aca14ab708b5f8db79661, type: 3}
 --- !u!1001 &1083307115
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6286,6 +6051,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f7f5951340187b6408b274b2ac649606, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (86)
@@ -6305,7 +6074,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6347,6 +6116,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 48ed1dd2f485fb44086f4854672c9a36, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (48)
@@ -6381,7 +6154,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6423,6 +6196,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ea81ccbfb521b7e408eba933db646e7f, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (51)
@@ -6452,7 +6229,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6494,6 +6271,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f2a633e6e27b9f04ba404bff460bc47e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (18)
@@ -6528,7 +6309,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6570,6 +6351,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d916e0b65da22174382767a6b942efdb, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (12)
@@ -6589,7 +6374,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6631,6 +6416,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8292cd85d58172346bc106c19fd24589, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (48)
@@ -6670,7 +6459,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6712,6 +6501,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 36309628ff2176343815aa91d597ebf4, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8
@@ -6731,7 +6524,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6773,6 +6566,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 36309628ff2176343815aa91d597ebf4, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (45)
@@ -6797,7 +6594,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6839,6 +6636,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2fea2a17f0c89914bb1ce995a2c78355, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (70)
@@ -6858,7 +6659,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6900,6 +6701,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 06dcf0965e1727f40b45bffe135a82a0, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (54)
@@ -6918,11 +6723,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 2035761364}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1217434206 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-  m_PrefabInstance: {fileID: 1254483969}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1223301351 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
@@ -6934,7 +6734,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -6976,6 +6776,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b73b76e49c156f04ba17d20390ae1d3c, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (12)
@@ -6995,7 +6799,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7037,75 +6841,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a654dba29edd3cc4381b7a9b91044621, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (37)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
---- !u!4 &1246770325 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-  m_PrefabInstance: {fileID: 1886574182}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &1254483969
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.1799998
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -2.528
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x4 (33)
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Layer
@@ -7122,7 +6864,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7164,6 +6906,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 48ed1dd2f485fb44086f4854672c9a36, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (7)
@@ -7188,7 +6934,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7230,6 +6976,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 06dcf0965e1727f40b45bffe135a82a0, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (28)
@@ -7254,7 +7004,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7296,6 +7046,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2fea2a17f0c89914bb1ce995a2c78355, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (36)
@@ -7330,7 +7084,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7372,6 +7126,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f7f5951340187b6408b274b2ac649606, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (21)
@@ -7391,7 +7149,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7433,6 +7191,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 48ed1dd2f485fb44086f4854672c9a36, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (23)
@@ -7452,7 +7214,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7494,6 +7256,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a0117c0c441b3d4b84bcf28a1e57084, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (4)
@@ -7518,7 +7284,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7560,6 +7326,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f2a633e6e27b9f04ba404bff460bc47e, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (9)
@@ -7579,7 +7349,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7621,6 +7391,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a654dba29edd3cc4381b7a9b91044621, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (32)
@@ -7640,7 +7414,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7682,6 +7456,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 48ed1dd2f485fb44086f4854672c9a36, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (10)
@@ -7716,7 +7494,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7758,6 +7536,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a654dba29edd3cc4381b7a9b91044621, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (99)
@@ -7792,7 +7574,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7834,6 +7616,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 51d3f1d141904db4891039dea06612ca, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (78)
@@ -7853,7 +7639,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7895,6 +7681,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2fea2a17f0c89914bb1ce995a2c78355, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (29)
@@ -7929,7 +7719,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7971,6 +7761,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ea81ccbfb521b7e408eba933db646e7f, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (36)
@@ -7990,7 +7784,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8032,6 +7826,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b73b76e49c156f04ba17d20390ae1d3c, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (96)
@@ -8051,7 +7849,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8093,6 +7891,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 72127cdd462b1154b8d960aa00aafd4e, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (19)
@@ -8122,7 +7924,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8164,6 +7966,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 72127cdd462b1154b8d960aa00aafd4e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (79)
@@ -8207,79 +8013,13 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 479875841}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1564260160
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2.2259998
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.8959999
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x8 (69)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
---- !u!4 &1575129687 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-  m_PrefabInstance: {fileID: 1591687398}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1575580156
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8321,6 +8061,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b73b76e49c156f04ba17d20390ae1d3c, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (3)
@@ -8349,67 +8093,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 250934376}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1591687398
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2.2259998
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.792
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x8 (76)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
 --- !u!4 &1605791279 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
@@ -8421,7 +8104,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8463,6 +8146,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f2a633e6e27b9f04ba404bff460bc47e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (30)
@@ -8482,7 +8169,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8524,6 +8211,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 36309628ff2176343815aa91d597ebf4, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (23)
@@ -8568,7 +8259,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8610,6 +8301,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 61d8fa0f288d964408c0aa24f631f00e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (17)
@@ -8629,7 +8324,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8671,6 +8366,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2fea2a17f0c89914bb1ce995a2c78355, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (14)
@@ -8695,7 +8394,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8737,6 +8436,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2fea2a17f0c89914bb1ce995a2c78355, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (31)
@@ -8766,7 +8469,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8808,6 +8511,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: a654dba29edd3cc4381b7a9b91044621, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (16)
@@ -8827,7 +8534,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8869,6 +8576,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a0117c0c441b3d4b84bcf28a1e57084, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (20)
@@ -8888,7 +8599,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8930,6 +8641,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ea81ccbfb521b7e408eba933db646e7f, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (75)
@@ -8958,11 +8673,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
   m_PrefabInstance: {fileID: 1797527030}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1793860555 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-  m_PrefabInstance: {fileID: 896820465}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1797269658 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
@@ -8974,7 +8684,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9016,6 +8726,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f7f5951340187b6408b274b2ac649606, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (40)
@@ -9035,7 +8749,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9077,6 +8791,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b73b76e49c156f04ba17d20390ae1d3c, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (20)
@@ -9096,7 +8814,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9138,6 +8856,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8292cd85d58172346bc106c19fd24589, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (5)
@@ -9151,18 +8873,13 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
---- !u!4 &1803873864 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-  m_PrefabInstance: {fileID: 276776464}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1804009464
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9204,6 +8921,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 51d3f1d141904db4891039dea06612ca, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (57)
@@ -9223,7 +8944,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9265,6 +8986,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a0117c0c441b3d4b84bcf28a1e57084, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (59)
@@ -9294,7 +9019,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9336,6 +9061,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 36309628ff2176343815aa91d597ebf4, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (44)
@@ -9355,7 +9084,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9397,6 +9126,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d916e0b65da22174382767a6b942efdb, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (49)
@@ -9416,7 +9149,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9458,6 +9191,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 06dcf0965e1727f40b45bffe135a82a0, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (39)
@@ -9477,7 +9214,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9519,6 +9256,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d916e0b65da22174382767a6b942efdb, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (46)
@@ -9532,11 +9273,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
---- !u!4 &1853121897 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-  m_PrefabInstance: {fileID: 589498991}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1861951668 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
@@ -9548,7 +9284,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9590,6 +9326,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8292cd85d58172346bc106c19fd24589, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (91)
@@ -9609,7 +9349,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9651,6 +9391,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f7f5951340187b6408b274b2ac649606, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (40)
@@ -9670,7 +9414,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9712,6 +9456,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: b73b76e49c156f04ba17d20390ae1d3c, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (11)
@@ -9736,7 +9484,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9778,6 +9526,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 36309628ff2176343815aa91d597ebf4, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (92)
@@ -9797,7 +9549,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9839,6 +9591,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 72127cdd462b1154b8d960aa00aafd4e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (38)
@@ -9857,67 +9613,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 1083307115}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1886574182
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2.2259998
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -2.528
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x8 (68)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
 --- !u!4 &1890137449 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
@@ -9929,7 +9624,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -9971,6 +9666,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a0117c0c441b3d4b84bcf28a1e57084, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (46)
@@ -9990,7 +9689,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10032,6 +9731,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d916e0b65da22174382767a6b942efdb, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (21)
@@ -10056,7 +9759,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10098,6 +9801,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: ea81ccbfb521b7e408eba933db646e7f, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (15)
@@ -10122,7 +9829,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10164,6 +9871,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f7f5951340187b6408b274b2ac649606, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (47)
@@ -10183,7 +9894,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10225,6 +9936,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 06dcf0965e1727f40b45bffe135a82a0, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (55)
@@ -10244,7 +9959,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10286,6 +10001,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f7f5951340187b6408b274b2ac649606, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (8)
@@ -10299,140 +10018,18 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
---- !u!1001 &1959089141
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.1799998
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.8959999
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x4 (34)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
 --- !u!4 &1974593469 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 1694125683}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1984934504
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -4.134
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -3.16
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Name
-      value: bevel-lq-plate-4x8 (60)
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-      propertyPath: m_Layer
-      value: 10
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
 --- !u!1001 &2000402382
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10474,6 +10071,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 4a0117c0c441b3d4b84bcf28a1e57084, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (43)
@@ -10498,7 +10099,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10540,6 +10141,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 48ed1dd2f485fb44086f4854672c9a36, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (11)
@@ -10558,18 +10163,13 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
   m_PrefabInstance: {fileID: 1687264602}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &2021412482 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
-  m_PrefabInstance: {fileID: 645722164}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2027972948
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10611,6 +10211,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 36309628ff2176343815aa91d597ebf4, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (88)
@@ -10630,7 +10234,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10672,6 +10276,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d916e0b65da22174382767a6b942efdb, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (97)
@@ -10691,7 +10299,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10733,6 +10341,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 72127cdd462b1154b8d960aa00aafd4e, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (42)
@@ -10818,7 +10430,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10860,6 +10472,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 61d8fa0f288d964408c0aa24f631f00e, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (13)
@@ -10884,7 +10500,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10926,6 +10542,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8292cd85d58172346bc106c19fd24589, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (89)
@@ -10950,7 +10570,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -10992,6 +10612,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2fea2a17f0c89914bb1ce995a2c78355, type: 2}
     - target: {fileID: 919132149155446097, guid: 63297eb9c90b60b44a5cc1502ad6876e, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x4 (17)
@@ -11031,7 +10655,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 230804835}
+    m_TransformParent: {fileID: 860667156}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11073,6 +10697,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 2fea2a17f0c89914bb1ce995a2c78355, type: 2}
     - target: {fileID: 919132149155446097, guid: ed4e67dcc53915b49acd0325d66bb81c, type: 3}
       propertyPath: m_Name
       value: bevel-lq-plate-4x8 (15)
@@ -11211,3 +10839,4 @@ SceneRoots:
   - {fileID: 982343007}
   - {fileID: 835501564}
   - {fileID: 230804835}
+  - {fileID: 1079387455}
